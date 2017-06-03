@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Antrianku: Tombol</string>
+    <string name="TestButton">Test</string>
+    <string name="TextIPAntrianku">IP AntrianKu:</string>
 </resources>
