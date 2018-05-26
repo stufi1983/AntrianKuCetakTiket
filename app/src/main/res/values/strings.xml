@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Antrianku: Tombol</string>
+    <string name="app_name">Cetak Tiket</string>
     <string name="TestButton">Test</string>
     <string name="TextIPAntrianku">IP AntrianKu:</string>
     <string name="TitleSetting">Setting</string>
+    <string name="setting">Setting</string>
 </resources>
